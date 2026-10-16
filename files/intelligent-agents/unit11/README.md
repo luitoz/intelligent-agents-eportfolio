@@ -125,7 +125,7 @@ All runs generate:
 
 ## Architecture
 
-![alt text](images/architecture.png)
+![alt text](architecture.png)
 
 ## Agents
 
@@ -175,19 +175,19 @@ Root:
 Can the system retrieve academic evidence?
 
 
-![alt text](images/v1.png)
+![alt text](v1.png)
 
 ### [V2 - Robustness](https://github.com/luitoz/multi-agent-academic-investigator/releases/tag/v2.0.0)
 
 Can the system detect poor evidence and adapt its search?
 
-![alt text](images/v2.png)
+![alt text](v2.png)
 
 ### [V3 - Usability](https://github.com/luitoz/multi-agent-academic-investigator/releases/tag/v3.0.0)
 
 Can the system transform evidence into a traceable research briefing?
 
-![alt text](images/v3.png)
+![alt text](v3.png)
 
 ## Running tests
 
