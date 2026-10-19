@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Intelligent Agents Module"
+permalink: /mymodule/
+author_profile: false
+---
+
+{% include base_path %}
+This module will look at one of the most exciting and rapidly evolving fields within computing: Intelligent Agents. Agents are software programs that can understand their environment and act in a way that helps them achieve their desired goals. They are an intelligent and innovative tool that can be deployed in a whole range of scenarios across the private and public sector. 
+
+{% assign sorted_units = site.mymodule | sort: "order" %}
+{% for post in sorted_units %}
+  {% include archive-single.html %}
+{% endfor %}
+

@@ -1,0 +1,20 @@
+current directory: /Users/luistorres/Library/CloudStorage/OneDrive-UniversityofEssex/essex/machine-learning/coding/e-portfolio/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/homebrew/opt/ruby@3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/luistorres/Library/CloudStorage/OneDrive-UniversityofEssex/essex/machine-learning/coding/e-portfolio/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260722-48306-15ug8e sitelibdir\=./.gem.20260722-48306-15ug8e clean
+
+current directory: /Users/luistorres/Library/CloudStorage/OneDrive-UniversityofEssex/essex/machine-learning/coding/e-portfolio/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260722-48306-15ug8e sitelibdir\=./.gem.20260722-48306-15ug8e
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/luistorres/Library/CloudStorage/OneDrive-UniversityofEssex/essex/machine-learning/coding/e-portfolio/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260722-48306-15ug8e sitelibdir\=./.gem.20260722-48306-15ug8e install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20260722-48306-15ug8e
+
+current directory: /Users/luistorres/Library/CloudStorage/OneDrive-UniversityofEssex/essex/machine-learning/coding/e-portfolio/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260722-48306-15ug8e sitelibdir\=./.gem.20260722-48306-15ug8e clean

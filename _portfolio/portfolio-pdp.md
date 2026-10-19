@@ -1,0 +1,17 @@
+---
+title: "Action Plan (PDP)"
+excerpt: ""
+collection: portfolio
+---
+
+| What do I want / need to learn? | What do I have to do to achieve this? | What resources or support will I need? | How will I measure success? | Target dates for review and completion | Evidence of development |
+|---|---|---|---|---|---|
+| Develop understanding of intelligent agent architectures | Study Reactive, Deliberative, Hybrid, and BDI architectures and analyse their suitability for different applications | Lecture notes, module materials, Wooldridge textbook, academic papers | Ability to explain and justify the selection of appropriate agent architectures for different problems | Mid-module review; end-of-module completion | Coursework notes, architecture comparisons, reflective learning journal |
+| Strengthen multi-agent system design skills | Design agents that communicate, coordinate, and cooperate to achieve shared goals | Module labs, case studies, FIPA communication materials, workshop activities | Successful design and analysis of multi-agent interactions and coordination strategies | Mid-module | Agent designs, workflow diagrams, seminar activities |
+| Improve agent orchestration and development skills | Implement agent workflows using frameworks such as LangGraph and integrate external tools and APIs | LangGraph documentation, coding exercises, GitHub repositories | Functional agent workflows demonstrating reasoning, routing, and tool use | Throughout module | Code repositories, workflow implementations, demonstration outputs |
+| Develop competence in large language model integration | Configure, evaluate, and compare LLMs such as Qwen3 for intelligent agent applications | Model documentation, Hugging Face resources, practical exercises | Ability to justify model selection and evaluate strengths and limitations for agent tasks | End of implementation unit | Evaluation notes, model comparisons, experimentation records |
+| Evaluate agent performance and reliability | Analyse agent behaviour, reasoning quality, coordination effectiveness, and failure scenarios | Research papers, testing frameworks, seminar guidance | Ability to identify limitations, explain failures, and propose improvements | Throughout module | Testing reports, evaluation summaries, reflective analyses |
+| Communicate intelligent agent solutions effectively | Produce clear documentation, architecture diagrams, presentations, and critical reflections | Presentation guidance, peer feedback, diagramming tools | Clear and professional explanations of agent systems and design decisions | Before assessment submission | Final report, architecture diagrams, presentation slides |
+| Develop independent and reflective learning skills in agentic AI | Manage project work independently, explore emerging agent frameworks, and critically reflect on learning | GitHub, academic literature, online documentation, self-study resources | Consistent progress and ability to solve implementation challenges with minimal supervision | Weekly review; end of module | GitHub commit history, project logs, reflective journal |
+| Develop awareness of ethical and responsible agent deployment | Investigate issues such as bias, hallucinations, transparency, accountability, privacy, and human oversight | Responsible AI guidelines, module materials, research papers | Ability to critically evaluate ethical risks and propose mitigation strategies | End of module | Ethics discussion, risk assessments, reflective commentary |
+
