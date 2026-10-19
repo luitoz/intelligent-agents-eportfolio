@@ -1,6 +1,6 @@
-**LLM-Powered Academic Research and Information Gathering Agent**
+# **LLM-Powered Academic Research and Information Gathering Agent**
 
-**1\. Introduction**
+## **1\. Introduction**
 
 **Problem Statement**
 
@@ -20,7 +20,7 @@ The objective is to develop an LLM-powered multi-agent system that can:
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8/AwAI/AL+GwXmLwAAAABJRU5ErkJggg==)
 
-**2\. System Requirements**
+## **2\. System Requirements**
 
 **Functional Requirements**
 
@@ -45,7 +45,7 @@ The system shall provide:
 - **Cost Efficiency:** Minimize operational costs through the use of open-source and free-tier technologies where appropriate.
 - **Extensibility:** Support future integration of additional agents, databases, and analytical capabilities.
 
-**3\. Proposed Multi-Agent Hybrid Architecture**
+## **3\. Proposed Multi-Agent Hybrid Architecture**
 
 This architecture combines decentralized agents as proposed in MAS (Multi-Agent System) architectures with elements of centralized control found in traditional approaches. The idea is to achieve a system that has centralized principles and a decentralized implementation, thereby leveraging the benefits of both paradigms (Biswas and Sarkar, 2026). The Large Language Model (LLM)-based agent functions as a central orchestrator, coordinating multiple Small Language Model (SLM)-based agents responsible for domain-specific tasks (Farahani, Khan and Wuest, 2026).
 

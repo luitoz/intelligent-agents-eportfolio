@@ -1,0 +1,17 @@
+# Unit 3 Reflection
+
+## What
+
+In my initial post, I discussed how multi-agent system (MAS) architecture emerged in manufacturing as a response to the limitations of traditional centralized control systems. MAS adopts a distributed approach in which complex problems are decomposed into smaller tasks that are assigned to autonomous agents. In my second post, I examined some of the risks associated with the agentic AI paradigm, including goal misalignment between agents and human intentions, as well as the possibility of agents collaborating in ways that could mislead human operators. In my third post, I argued that a hybrid agentic architecture combining decentralized agents with centralized coordination and human oversight could facilitate the adoption of MAS in manufacturing. In my final post, I explored an approach for the safe adoption of large language models (LLMs) in manufacturing by ensuring that LLM-generated recommendations are validated by deterministic agents. I also highlighted the importance of balancing agent autonomy with human oversight through an adaptive human-in-the-loop approach based on decision criticality.
+
+## So what: Analysis, Emotional Response, and Meaning
+
+My understanding of MAS evolved throughout the discussion as I was exposed to different perspectives and application domains beyond my initial focus on manufacturing. For example, I learned how autonomous agents can create value across the service management lifecycle within telecommunications organizations. Reflecting on the discussions, I concluded that a hybrid agentic architecture offers a practical path for real-world adoption. Rather than replacing existing centralized manufacturing processes with fully autonomous distributed agents, combining autonomous agents with centralized coordination and human oversight can leverage the strengths of both approaches. This insight led me to appreciate that the successful adoption of MAS depends not only on technical capabilities but also on addressing organizational, governance, and trust-related challenges.
+
+## Now what
+
+Modern frameworks for the safe application of LLMs in critical manufacturing processes and approaches for dynamic human oversight in high-throughput manufacturing environments. I also learned that successful deployment of agentic systems requires not only technical performance but also mechanisms for validation, governance, and accountability.
+
+From an overly optimistic view of decentralized architectures, where decisions emerge from the collaboration of multiple autonomous agents working on complex problems, to a more balanced perspective that recognizes the risks of unexpected emergent behaviour, goal misalignment, and reduced human control. This led me to appreciate the value of hybrid architectures that combine agent autonomy with centralized coordination and human oversight.
+
+In future academic and professional work, I will evaluate agentic systems not only in terms of efficiency and autonomy but also in terms of safety, transparency, and governance. When designing or assessing multi-agent systems, I will consider human oversight mechanisms, validation processes, and hybrid architectural approaches to ensure that autonomous agents operate reliably in critical environments. These insights will be particularly relevant to my interest in AI-driven systems, where balancing innovation with trust and control is essential for successful adoption.
